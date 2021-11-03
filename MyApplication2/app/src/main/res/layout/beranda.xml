@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/ic_bg_menuxxxhdpi"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="274dp">
+
+    </LinearLayout>
+
+    <ImageButton
+        android:layout_width="39dp"
+        android:layout_height="38dp"
+        android:background="@drawable/ic_baseline_add_circle_outline_24"
+        tools:layout_editor_absoluteX="219dp"
+        tools:layout_editor_absoluteY="117dp"/>
+    <ImageView
+        android:layout_width="207dp"
+        android:layout_height="222dp"
+        android:src="@drawable/ic_asset_29xxxhdpi"
+        tools:layout_editor_absoluteX="235dp"
+        tools:layout_editor_absoluteY="3dp" />
+
+    <TextView
+        android:layout_width="194dp"
+        android:layout_height="51dp"
+        android:text="Rp  1.000.000"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="115dp" />
+
+    <TextView
+        android:layout_width="393dp"
+        android:layout_height="26dp"
+        android:text="Selamat Datang di"
+        android:textColor="@color/white"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="24dp" />
+
+    <TextView
+        android:layout_width="397dp"
+        android:layout_height="26dp"
+        android:text="Aksi Peduli"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="45dp" />
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="21dp"
+        android:text="Saldo Aplikasi"
+        android:textColor="@color/white"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="95dp" />
+
+    <TextView
+        android:layout_width="277dp"
+        android:layout_height="14dp"
+        android:text="Uang Tersebut Akan Di Donasikan Kepada"
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="176dp" />
+
+    <TextView
+        android:layout_width="276dp"
+        android:layout_height="23dp"
+        android:text="Masyarakat UNESA Yang Membutuhkan"
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="191dp" />
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background=""
+
+
+

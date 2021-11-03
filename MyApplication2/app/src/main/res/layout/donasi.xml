@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:background="@drawable/ic_bg_donasixxxhdpi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:backgroundTint="#4849BF"
+            android:layout_width="172dp"
+            android:layout_height="64dp"
+            android:layout_marginHorizontal="120dp"
+            android:layout_marginVertical="650dp"
+            android:text="Bantu"/>
+
+    </LinearLayout>
+    <Button
+        android:layout_width="38dp"
+        android:layout_height="31dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="15dp"
+        android:background="@drawable/ic_baseline_close_24"
+        android:backgroundTint="@color/white"
+        tools:layout_editor_absoluteX="358dp"
+        tools:layout_editor_absoluteY="11dp" />
+
+    <TextView
+        android:layout_width="245dp"
+        android:layout_height="39dp"
+        android:layout_marginVertical="50dp"
+        android:text="Permasalahan"
+        android:textAlignment="center"
+        android:textColor="#4849BF"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="557dp" />
+    <TextView
+        android:layout_width="246dp"
+        android:layout_height="51dp"
+        android:layout_marginVertical="50dp"
+        android:text="Memiliki permasalahan ekonomi akibat  dampak COVID19"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="82dp"
+        tools:layout_editor_absoluteY="607dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="315dp"
+        android:layout_height="35dp"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginVertical="50dp"
+        android:text="Octarian Prasetya M"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="13dp" />
+
+    <TextView
+        android:layout_width="228dp"
+        android:layout_height="30dp"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginVertical="70dp"
+        android:text="Teknik Informatika"
+        android:textColor="@color/white"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="47dp" />
+
+    <TextView
+        android:layout_width="195dp"
+        android:layout_height="32dp"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginVertical="90dp"
+        android:text="Semester 5"
+        android:textColor="@color/white"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="77dp" />
+        <ImageView
+            android:src="@drawable/ic_asset_10xxxhdpi"
+            android:layout_width="430dp"
+            android:layout_height="789dp"/>
+
+        <ImageView
+            android:layout_width="406dp"
+            android:layout_height="513dp"
+            android:src="@drawable/orang"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="32dp" />
+
